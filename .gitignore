@@ -1,12 +1,6 @@
-DNN/**/Accuracy
+
 DNN/**/1term_data
-DNN/**/ConfusionMatrix
-DNN/**/Loss
-DNN/**/Result
 
 
-LSTM(Keras)/**/Accuracy
+
 LSTM(Keras)/**/1term_data
-LSTM(Keras)/**/ConfusionMatrix
-LSTM(Keras)/**/Loss
-LSTM(Keras)/**/Result
